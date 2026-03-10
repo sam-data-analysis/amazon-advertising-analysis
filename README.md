@@ -62,11 +62,15 @@ Increase bids for high performing keywords and reduce spend on inefficient ones.
 
 ### ROAS vs Ad Spend
 
+<p align="center">
 <img src="roas_vs_spend.png" width="600">
+</p>
 
 ### ACOS vs Conversion Rate
 
+<p align="center">
 <img src="acos_vs_conversion.png" width="600">
+</p>
 
 ## Business Recommendations
 
