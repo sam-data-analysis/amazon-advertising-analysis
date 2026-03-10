@@ -54,6 +54,8 @@ Increase bids for high performing keywords and reduce spend on inefficient ones.
 
 ### ROAS vs Ad Spend
 
+This chart compares advertising spend with return on ad spend (ROAS).
+
 ![ROAS vs Spend](roas_vs_spend.png)
 
 ### ACOS vs Conversion Rate
