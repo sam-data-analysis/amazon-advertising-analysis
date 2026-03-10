@@ -69,6 +69,8 @@ It helps identify keywords that generate strong returns relative to their advert
 <img src="roas_vs_spend.png" width="600">
 </p>
 
+Insight: Keywords such as "mini speaker" and "wireless speaker" generate strong ROAS while using relatively low advertising spend, suggesting potential opportunities for scaling.
+
 ### ACOS vs Conversion Rate
 
 This chart compares advertising cost of sale (ACOS) against conversion rate.  
@@ -77,6 +79,8 @@ It helps identify inefficient keywords that require high advertising cost but ge
 <p align="center">
 <img src="acos_vs_conversion.png" width="600">
 </p>
+
+Insight: "cheap bluetooth speaker" shows high ACOS and low conversion rate, indicating inefficient ad spend.
 
 ## Business Recommendations
 
