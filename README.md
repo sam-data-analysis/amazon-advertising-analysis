@@ -50,7 +50,13 @@ Underperforming keyword:
 Recommendation:
 Increase bids for high performing keywords and reduce spend on inefficient ones.
 
-## Visualisation
+## Visualisations
+
+### ROAS vs Ad Spend
 
 ![ROAS vs Spend](roas_vs_spend.png)
+
+### ACOS vs Conversion Rate
+
+![ACOS vs Conversion](acos_vs_conversion.png)
 
