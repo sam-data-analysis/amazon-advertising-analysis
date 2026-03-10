@@ -13,6 +13,23 @@ The goal is to identify profitable keywords and wasted advertising spend.
 - Matplotlib
 - Jupyter Notebook
 
+## Dataset
+
+The dataset contains advertising performance data for Amazon keywords including:
+
+- Clicks
+- Spend
+- Orders
+- Sales
+
+## Sample Data
+
+| Keyword | Clicks | Spend | Orders | Sales |
+|--------|--------|-------|--------|-------|
+| mini speaker | 2131 | 2229 | 240 | 13410 |
+| wireless speaker | 1343 | 1396 | 161 | 8971 |
+| cheap bluetooth speaker | 2134 | 2059 | 108 | 4326 |  
+
 ## Metrics Analysed
 
 - CPC (Cost Per Click)
